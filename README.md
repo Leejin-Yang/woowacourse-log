@@ -61,13 +61,33 @@
 
 <br/>
 
-## ✍️ Writing: 글쓰기코스
+## 🐧 Level 3
+
+### 기간
+
+- 2023.06.27 – 2023.08.18
+
+### 팀원
+
+- FE: [타미](https://github.com/xodms0309), [해온](https://github.com/hae-on), [황펭](https://github.com/Leejin-Yang)
+- BE: [로건](https://github.com/70825), [망고](https://github.com/Go-Jaecheol), [오잉](https://github.com/hanueleee), [우가](https://github.com/wugawuga)
+
+### 프로젝트
+
+|     Name      |                          Repository                          |                        UI Repository                         |          Website          |
+| :-----------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :-----------------------: |
+| 펀잇(fun-eat) | [fun-eat](https://github.com/woowacourse-teams/2023-fun-eat) | [fun-eat-design-system](https://github.com/fun-eat/design-system) | [🥄](https://funeat.site/) |
+
+<br>
+
+## ✍️ 글쓰기코스
 
 ### 진행 미션
 |Level |Topic |Repository |Pull Request |
 |:----:|:----:|:---------:|:-----------:|
 |1 - 기록|우아한테크코스 한 달 생활기|[woowa-writing-5/level1.md](https://github.com/Leejin-Yang/woowa-writing-5/blob/level1/level1.md)|[Pull Request](https://github.com/woowacourse/woowa-writing-5/pull/135)|
 |2 - 자유 주제|고양이 키우는 것, 쉽지 않습니다...|[woowa-writing-5/level2.md](https://github.com/Leejin-Yang/woowa-writing-5/blob/level2/level2.md)|[Pull Request](https://github.com/woowacourse/woowa-writing-5/pull/213)|
+|3 - 프로젝트 소개|펀잇 (Fun-eat) 궁금해? 맛있을걸? 먹어봐!|[woowa-writing-5/level3-fun-eat.md](https://github.com/Leejin-Yang/woowa-writing-5/blob/fun-eat/level3-fun-eat.md)|[Pull Request](https://github.com/woowacourse/woowa-writing-5/pull/360)|
 
 <br>
 
