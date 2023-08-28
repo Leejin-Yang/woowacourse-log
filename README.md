@@ -80,7 +80,15 @@
 
 <br>
 
-## ✍️ 글쓰기코스
+## 🎤 테코톡: 학습한 내용 말하기로 공유하기
+
+### 유튜브 링크
+
+- [[10분 테코톡] 에이든, 황펭의 프론트엔드 성능 측정](https://youtu.be/IRj9vKBy9CA?si=z2OREQM5-8AW7FKD)
+
+<br>
+
+## 🖋️ 글쓰기코스
 
 ### 진행 미션
 |Level |Topic |Repository |Pull Request |
