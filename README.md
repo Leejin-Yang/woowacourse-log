@@ -94,6 +94,27 @@
 
 <br>
 
+## 🐧 Level 4: In-Depth Web Programming, Team Project
+
+### 기간
+
+- 2023.08.29 – 2023.10.20
+
+### 학습 목표
+
+- 프론트엔드 성능을 측정, 분석하고 개선해본다.
+- 재사용 가능한 레이아웃 컴포넌트를 개발하고 활용해본다.
+- 프론트엔드의 다양한 렌더링 방식에 대해 학습하고 적용해본다.
+
+### 진행 미션
+|Project |Step1 |Step2 |Website |
+|:------:|:---------:|:-----------:|:---:|
+|프론트엔드 성능 베이스캠프|[perf-basecamp/step1](https://github.com/woowacourse/perf-basecamp/pull/72)||[⛺️](https://d220a64y27um0u.cloudfront.net/)|
+|레이아웃 컴포넌트|[layout-component/step1](https://github.com/woowacourse/layout-component/pull/19)|[layout-component/step2](https://github.com/woowacourse/layout-component/pull/86)|[📄](https://leejin-yang.github.io/component-docs/docs/category/layout)|
+|프론트엔드 렌더링 방식|[frontend-rendering/step1](https://github.com/woowacourse/frontend-rendering/pull/1)||[🥄](https://funeat-next-hp.vercel.app/)|
+
+<br>
+
 ## 🎤 테코톡: 학습한 내용 말하기로 공유하기
 
 ### 유튜브 링크
