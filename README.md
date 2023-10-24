@@ -111,7 +111,7 @@
 |:------:|:---------:|:-----------:|:---:|
 |프론트엔드 성능 베이스캠프|[perf-basecamp/step1](https://github.com/woowacourse/perf-basecamp/pull/72)||[⛺️](https://d220a64y27um0u.cloudfront.net/)|
 |레이아웃 컴포넌트|[layout-component/step1](https://github.com/woowacourse/layout-component/pull/19)|[layout-component/step2](https://github.com/woowacourse/layout-component/pull/86)|[📄](https://leejin-yang.github.io/component-docs/docs/category/layout)|
-|프론트엔드 렌더링 방식|[frontend-rendering/step1](https://github.com/woowacourse/frontend-rendering/pull/1)||[🥄](https://funeat-next-hp.vercel.app/)|
+|프론트엔드 렌더링 방식|[frontend-rendering/step1](https://github.com/woowacourse/frontend-rendering/pull/1)|[frontend-rendering/step2](https://github.com/woowacourse/frontend-rendering/pull/53)|[🥄](https://funeat-next-hp.vercel.app/)|
 
 <br>
 
@@ -131,6 +131,7 @@
 |1 - 기록|우아한테크코스 한 달 생활기|[woowa-writing-5/level1.md](https://github.com/Leejin-Yang/woowa-writing-5/blob/level1/level1.md)|[Pull Request](https://github.com/woowacourse/woowa-writing-5/pull/135)|
 |2 - 자유 주제|고양이 키우는 것, 쉽지 않습니다...|[woowa-writing-5/level2.md](https://github.com/Leejin-Yang/woowa-writing-5/blob/level2/level2.md)|[Pull Request](https://github.com/woowacourse/woowa-writing-5/pull/213)|
 |3 - 프로젝트 소개|펀잇 (Fun-eat) 궁금해? 맛있을걸? 먹어봐!|[woowa-writing-5/level3-fun-eat.md](https://github.com/Leejin-Yang/woowa-writing-5/blob/fun-eat/level3-fun-eat.md)|[Pull Request](https://github.com/woowacourse/woowa-writing-5/pull/360)|
+|4 - 시작|내가 꿈꾸는 프로그래머로서의 삶|[woowa-writing-5/level4.md](https://github.com/Leejin-Yang/woowa-writing-5/blob/level4/level4.md)|[Pull Request](https://github.com/woowacourse/woowa-writing-5/pull/525)|
 
 <br>
 
